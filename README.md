@@ -13,7 +13,7 @@ I'm passionate about optimizing online visibility and growing organic traffic wi
 I’ve worked on both product- and service-based businesses, leading cross-functional SEO strategies that have resulted in:
 - 300+ sign-ups per month at KredX
 - Ranking 200+ global and 600+ local keywords on Page 1
-- 30% traffic growth at Eleczo.com with a 20% boost in conversions
+- 30% traffic growth at eleczo.com with a 20% boost in conversions
 
 ---
 
@@ -39,8 +39,6 @@ Here are some key highlights from my SEO journey:
 - **Eleczo.com:** Spearheaded keyword optimization and technical SEO to increase organic leads.
 - **FuGenX:** Ranked hundreds of keywords, created backlinks, and wrote app-focused blog content.
 
-Want to see my live portfolio? 👉 [Click here](#) (upload your website and link it here)
-
 ---
 
 ## 🎯 Career Goals
@@ -57,7 +55,7 @@ Want to see my live portfolio? 👉 [Click here](#) (upload your website and lin
 📧 **girishshetty5637@gmail.com**  
 📍 Bengaluru, India  
 🌐 [GitHub Portfolio](#)  
-📇 [LinkedIn - coming soon!]
+📇 [LinkedIn - https://www.linkedin.com/in/girish-digital-marketing-executive-outreach-specialist/]
 
 ---
 
