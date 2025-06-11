@@ -22,7 +22,7 @@ I’ve worked on both product- and service-based businesses, leading cross-funct
 ### 🔨 Tools I Use
 - **SEO Tools:** SEMRush, Ahrefs, Moz, Screaming Frog SEO Spider
 - **Analytics:** Google Analytics, Microsoft Clarity, Google Tag Manager, Google Keyword Planner
-- ****Content & On-Page SEO:** Grammarly, ChatGPT
+- **Content & On-Page SEO:** Grammarly, ChatGPT
 - **Imaging:** Canva, Piktochart
 - **Tech:** HTML, CSS, WordPress, JavaScript (basic)
   
