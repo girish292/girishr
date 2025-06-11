@@ -20,13 +20,15 @@ I’ve worked on both product- and service-based businesses, leading cross-funct
 ## 💼 Work & Skills
 
 ### 🔨 Tools I Use
-- **SEO Tools:** SEMRush, Ahrefs, Moz
-- **Analytics:** Google Analytics, Microsoft Clarity, Google Tag Manager
-- **Imaging:** Canva, Piktochart, Quora SEO strategies
+- **SEO Tools:** SEMRush, Ahrefs, Moz, Screaming Frog SEO Spider
+- **Analytics:** Google Analytics, Microsoft Clarity, Google Tag Manager, Google Keyword Planner
+- ****Content & On-Page SEO:** Grammarly, ChatGPT
+- **Imaging:** Canva, Piktochart
 - **Tech:** HTML, CSS, WordPress, JavaScript (basic)
+  
 
 ### 🧠 Skills
-- On-page SEO • Off-page SEO • Link Building  
+- On-page SEO • Off-page SEO • Content Marketing • Link Building
 - Technical SEO • Blogger Outreach • Website Audits  
 - Keyword Research • Content Creation • Google Analytics Reporting
 
@@ -43,10 +45,11 @@ Here are some key highlights from my SEO journey:
 
 ## 🎯 Career Goals
 
-- 📈 Master advanced automation in SEO analytics
-- 🧠 Dive deeper into AI-driven SEO tools and content generation
-- 📚 Keep exploring content strategies that deliver value and rank!
-- 💡 Share knowledge on platforms like Quora and Medium
+- Master advanced SEO tools like Screaming Frog, Surfer SEO, and automation with Google Looker Studio.
+- Gain deep technical SEO knowledge: crawling, indexing, Core Web Vitals, schema markup.
+- Lead SEO strategies for diverse domains (eCommerce, SaaS, local SEO, etc.)
+- Improve content marketing collaboration to align SEO with business goals.
+- Stay updated with Google's algorithm updates and industry trends through SEO newsletters and communities.
 
 ---
 
